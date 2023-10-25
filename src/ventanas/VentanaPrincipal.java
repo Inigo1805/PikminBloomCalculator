@@ -25,7 +25,6 @@ import java.awt.event.MouseEvent;
  * Ventana principal de la aplicacion, donde se 
  * introducen los datos
  * @author Inigo Aramburu Valdepeñas iav839@alumnos.unican.es
- *
  */
 public class VentanaPrincipal {
 
